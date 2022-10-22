@@ -4,7 +4,7 @@ Alola Malola 👋 My name is Vibhu Jain
 Researcher/ Problem Solver
 --------------------------
 
-I am pursuing Bachelor's of technology and my specialization is Artificial Intelligence. Currently I am working on different research topics like genetic algorithm, different prediction models like rock paper scissor predictor, weather prediction etc.
+I am pursuing Bachelor's of technology in Artificial Intelligence. Currently I am working on different research topics like genetic algorithm, different prediction models like rock paper scissor predictor, weather prediction etc.
 
 * 🔍  I want to become a researcher and find new things, create new things.
 * ✉️  You can contact me at [jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)
