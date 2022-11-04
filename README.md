@@ -10,7 +10,7 @@ I am pursuing Bachelor's of technology in Artificial Intelligence. Currently I a
 * ✉️  You can contact me at [jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)
 * 🧠  I'm really good in problem solving and interested in new ideas for research or any other project.
 * 🤝  I'm open to collaborating on backend projects with requirements of languages as C,C++,python and MySQL.
-* ⚡  I am a programmer with a creative attitude towards everything. I see patterns everywhere and I love to apply them.
+* ⚡  I am a programmer with a creative attitude towards everything. I see patterns everywhere and I love work them out.
 
 ### Skills
 
