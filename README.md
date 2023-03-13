@@ -4,7 +4,7 @@ Alola Malola 👋 My name is Vibhu Jain
 Researcher/ Problem Solver
 --------------------------
 
-I am pursuing Bachelor's of technology in Artificial Intelligence. Currently I am working on different research topics like genetic algorithm, different prediction models like rock paper scissor predictor, weather prediction etc.
+I am pursuing Bachelor's of technology in Artificial Intelligence.I am a problem solver and AI enthusiast. I've been coding and building robots for 6 years. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones.
 
 * 🔍  I want to become a researcher and find new things, create new things.
 * ✉️  You can contact me at [jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)
