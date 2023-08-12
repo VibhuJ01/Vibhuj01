@@ -4,22 +4,20 @@ Alola Malola 👋 My name is Vibhu Jain
 The Thinker: Problem Solver, Innovator
 --------------------------
 
-I am pursuing Bachelor's of technology in Artificial Intelligence.I am a problem solver and AI enthusiast. I've been coding and building robots for 6 years. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones.
+I am pursuing Bachelor's of technology in Artificial Intelligence. I am a problem solver and AI enthusiast. I've been coding and building robots for 6 years. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones. I have also completed Prompt Engineering which I find fascinating and game changing. 
 
-* 🔍  I want to become a researcher and find new things, create new things.
+* 🔍  I want to become a Inventor and create new things.
 * ✉️  You can contact me at [jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)
-* 🧠  I'm really good in problem solving and interested in new ideas for research or any other project.
-* 🤝  I'm open to collaborating on backend projects with requirements of languages as C,C++,python and MySQL.
-* ⚡  I am a programmer with a creative attitude towards everything. I see patterns everywhere and I love work them out.
+* 🧠  I'm really good in problem solving and interested in making new things albiet physical or virtual.
+* 🤝  I'm open to collaborating on backend projects with requirements of languages as Python and MySQL.
+* ⚡  I am a programmer with a creative attitude towards everything. I see patterns everywhere and I love to work them out.
 
 ### Skills
 
 <p align="left">
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
 ### Socials
 
