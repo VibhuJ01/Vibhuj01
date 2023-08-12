@@ -1,7 +1,7 @@
 Alola Malola 👋 My name is Vibhu Jain
 ============================
 
-Researcher/ Problem Solver
+The Thinker: Problem Solver, Innovator
 --------------------------
 
 I am pursuing Bachelor's of technology in Artificial Intelligence.I am a problem solver and AI enthusiast. I've been coding and building robots for 6 years. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones.
