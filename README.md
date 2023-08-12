@@ -1,4 +1,4 @@
-![image](https://github.com/VibhuJ01/Vibhuj01/assets/94007826/d29501db-f32e-4827-a670-7ee7f934f8b5)Alola Malola 👋 My name is Vibhu Jain
+Alola Malola 👋 My name is Vibhu Jain
 ============================
 
 The Thinker: Problem Solver, Innovator
