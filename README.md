@@ -4,7 +4,7 @@ Alola Malola 👋 My name is Vibhu Jain
 The Thinker: Problem Solver, Innovator
 --------------------------
 
-I am pursuing Bachelor's of technology in Artificial Intelligence. I am a problem solver and AI enthusiast. I've been coding and building robots for 6 years. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones. I have also completed Prompt Engineering which I find fascinating and game changing. 
+I am pursuing Bachelor's of technology in Artificial Intelligence. I am a problem solver and AI enthusiast. I've been coding and building robots since 2017. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones. I have also completed Prompt Engineering which I find fascinating and game changing. 
 
 * 🔍  I want to become a Inventor and create new things.
 * ✉️  You can contact me at [jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)
