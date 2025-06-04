@@ -8,11 +8,11 @@ I hold a Bachelor's degree in Artificial Intelligence (B.Tech in AI) from SRM In
 
 I have professional experience leading AI teams and developing AI-powered websites and applications, designing robust backend systems primarily using Flask and managing databases with MongoDB, MySQL, PostgreSQL, and Vector DBs. I am also proficient in front-end technologies like React, and have solid skills in cloud and DevOps using AWS services such as Lambda, EC2, S3, and Docker.
 
-🔍 I aspire to innovate and invent new technologies, bridging the gap between AI and practical applications.
-✉️ You can contact me at jainvibhu.2002@gmail.com
-🧠 I excel at complex problem-solving and am passionate about creating both physical and virtual solutions.
-🤝 I am open to collaborations on backend and AI projects, especially involving Python and modern databases.
-⚡ A creative programmer with a keen eye for patterns, I thrive on working through challenging problems to deliver scalable and secure solutions.
+🔍 I aspire to innovate and invent new technologies, bridging the gap between AI and practical applications. <br> <br>
+✉️ You can contact me at jainvibhu.2002@gmail.com <br> <br>
+🧠 I excel at complex problem-solving and am passionate about creating both physical and virtual solutions. <br> <br>
+🤝 I am open to collaborations on backend and AI projects, especially involving Python and modern databases. <br> <br>
+⚡ A creative programmer with a keen eye for patterns, I thrive on working through challenging problems to deliver scalable and secure solutions. <br> <br>
 
 ### Skills
 <p align="left"> 
