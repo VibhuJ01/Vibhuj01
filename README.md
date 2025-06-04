@@ -1,23 +1,26 @@
 Alola Malola 👋 My name is Vibhu Jain
 ============================
 
-The Thinker: Problem Solver, Innovator
+The Thinker: Problem Solver, Innovator, AI & Backend Engineer
 --------------------------
 
-I am pursuing Bachelor's of technology in Artificial Intelligence. I am a problem solver and AI enthusiast. I've been coding and building robots since 2017. I've excelled in problems requiring higher level reasoning and problem solving. I've used a lot of AI/ML algorithms and am constantly working on new ones. I have also completed Prompt Engineering which I find fascinating and game changing. 
+I hold a Bachelor's degree in Artificial Intelligence (B.Tech in AI) from SRM Institute of Science and Technology. Since 2017, I have been passionate about coding, problem solving, and even building robots, which fueled my interest in higher-level reasoning challenges. My expertise spans AI/ML algorithms, Generative AI, Retrieval-Augmented Generation (RAG), and Prompt Engineering, which I find fascinating and transformative.
 
-* 🔍  I want to become a Inventor and create new things.
-* ✉️  You can contact me at [jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)
-* 🧠  I'm really good in problem solving and interested in making new things albiet physical or virtual.
-* 🤝  I'm open to collaborating on backend projects with requirements of languages as Python and MySQL.
-* ⚡  I am a programmer with a creative attitude towards everything. I see patterns everywhere and I love to work them out.
+I have professional experience leading AI teams and developing AI-powered websites and applications, designing robust backend systems primarily using Flask and managing databases with MongoDB, MySQL, PostgreSQL, and Vector DBs. I am also proficient in front-end technologies like React, and have solid skills in cloud and DevOps using AWS services such as Lambda, EC2, S3, and Docker.
+
+🔍 I aspire to innovate and invent new technologies, bridging the gap between AI and practical applications.
+✉️ You can contact me at jainvibhu.2002@gmail.com
+🧠 I excel at complex problem-solving and am passionate about creating both physical and virtual solutions.
+🤝 I am open to collaborations on backend and AI projects, especially involving Python and modern databases.
+⚡ A creative programmer with a keen eye for patterns, I thrive on working through challenging problems to deliver scalable and secure solutions.
 
 ### Skills
-
-<p align="left">
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="36" height="36" alt="SQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j_400x400.jpg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://assets.cdn.prod.twilio.com/original_images/flask-oauth.png" width="36" height="36" alt="Flask" /></a>
-
+<p align="left"> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" width="36" height="36" alt="SQL" /></a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> 
+ <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j_400x400.jpg" width="36" height="36" alt="Fast API" /></a> 
+ <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://assets.cdn.prod.twilio.com/original_images/flask-oauth.png" width="36" height="36" alt="Flask" /></a> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a> 
+</p>
