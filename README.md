@@ -1,24 +1,75 @@
-Alola Malola 👋 My name is Vibhu Jain
-============================
+# Hello there! 👋 I'm Vibhu Jain
 
-The Thinker: Problem Solver, Innovator, AI & Backend Engineer
---------------------------
+### AI & Backend Engineer building intelligent systems that solve real-world problems.
 
-I hold a Bachelor's degree in Artificial Intelligence (B.Tech in AI) from SRM Institute of Science and Technology. Since 2017, I have been passionate about coding, problem solving, and even building robots, which fueled my interest in higher-level reasoning challenges. My expertise spans AI/ML algorithms, Generative AI, Retrieval-Augmented Generation (RAG), and Prompt Engineering, which I find fascinating and transformative.
+I enjoy designing production-grade AI systems, scalable backend architectures, and automation platforms. Over the past few years I've worked across Generative AI, Retrieval-Augmented Generation (RAG), backend engineering, and distributed systems—building software used in production by hundreds of users.
 
-I have professional experience leading AI teams and developing AI-powered websites and applications, designing robust backend systems primarily using Flask and managing databases with MongoDB, MySQL, PostgreSQL, and Vector DBs. I am also proficient in front-end technologies like React, and have solid skills in cloud and DevOps using AWS services such as Lambda, EC2, S3, and Docker.
+I love taking ideas from research to deployment, whether that's redesigning system architectures, optimizing AI pipelines, or building reliable APIs that scale.
 
-🔍 I aspire to innovate and invent new technologies, bridging the gap between AI and practical applications. <br> <br>
-✉️ You can contact me at jainvibhu.2002@gmail.com <br> <br>
-🧠 I excel at complex problem-solving and am passionate about creating both physical and virtual solutions. <br> <br>
-🤝 I am open to collaborations on backend and AI projects, especially involving Python and modern databases. <br> <br>
-⚡ A creative programmer with a keen eye for patterns, I thrive on working through challenging problems to deliver scalable and secure solutions. <br> <br>
+---
 
-### Skills
-<p align="left"> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>   
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>  
- <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://assets.cdn.prod.twilio.com/original_images/flask-oauth.png" width="36" height="36" alt="Flask" /></a>  
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>   
- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>  
-</p>
+## 🚀 What I'm currently building
+
+* 🤖 AI applications powered by LLMs and RAG
+* ⚡ High-performance backend services with **FastAPI** & **Flask**
+* 🧠 AI agents, automation workflows & enterprise tools
+* 📊 Intelligent analytics and business automation platforms
+* ☁️ Cloud-native applications on AWS
+
+---
+
+## 💡 Things I enjoy working on
+
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Prompt Engineering
+* Backend Architecture & Microservices
+* System Design & Performance Optimization
+* Distributed Systems
+* Developer Tools & Automation
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+
+Python • FastAPI • Flask • Django • React
+
+**AI & Machine Learning**
+
+LLMs • RAG • NLP • Machine Learning • Deep Learning • Prompt Engineering • Vector Search
+
+**Databases**
+
+MongoDB • PostgreSQL • MySQL • Redis • Qdrant • Vector Databases
+
+**Cloud & DevOps**
+
+AWS (Lambda, EC2, S3, CloudWatch) • Docker • Linux • Caddy • Git
+
+---
+
+## 📌 A few things I'm proud of
+
+* 🚀 Built backend services supporting **600+ concurrent users** with reliable low-latency performance.
+* ⚡ Reduced AI response time from **~15 seconds to under 3 seconds** through retrieval optimization, caching, and backend improvements.
+* 🧠 Researched and redesigned an enterprise AI platform around **Retrieval-Augmented Generation (RAG)**, improving response quality while reducing infrastructure costs.
+* 👥 Led AI engineering teams delivering production applications for enterprise clients.
+* 📄 Published IEEE research on applied Generative AI.
+
+---
+
+## 🌱 Outside of work
+
+I've been programming since **2017**, and my curiosity started with building robots before evolving into AI systems and backend engineering. I enjoy solving difficult engineering problems, learning new technologies, and turning ambitious ideas into production software.
+
+---
+
+### 📫 Let's connect
+
+* 🌐 Portfolio: **https://vibhujain.saturnai.in**
+* 💼 LinkedIn: *https://www.linkedin.com/in/vibhuj01/*
+* 📧 **[jainvibhu.2002@gmail.com](mailto:jainvibhu.2002@gmail.com)**
+
+> *"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." - Alan Turing*
