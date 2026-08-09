@@ -18,6 +18,16 @@ I love taking ideas from research to deployment, whether that's redesigning syst
 
 ---
 
+## 📌 A few things I'm proud of
+
+* 🚀 Built backend services supporting **600+ concurrent users** with reliable low-latency performance.
+* ⚡ Reduced AI response time from **~15 seconds to under 3 seconds** through retrieval optimization, caching, and backend improvements.
+* 🧠 Researched and redesigned an enterprise AI platform around **Retrieval-Augmented Generation (RAG)**, improving response quality while reducing infrastructure costs.
+* 👥 Led AI engineering teams delivering production applications for enterprise clients.
+* 📄 Published IEEE research on applied Generative AI.
+
+---
+
 ## 💡 Things I enjoy working on
 
 * Generative AI & LLM Applications
@@ -47,16 +57,6 @@ MongoDB • PostgreSQL • MySQL • Redis • Qdrant • Vector Databases
 **Cloud & DevOps**
 
 AWS (Lambda, EC2, S3, CloudWatch) • Docker • Linux • Caddy • Git
-
----
-
-## 📌 A few things I'm proud of
-
-* 🚀 Built backend services supporting **600+ concurrent users** with reliable low-latency performance.
-* ⚡ Reduced AI response time from **~15 seconds to under 3 seconds** through retrieval optimization, caching, and backend improvements.
-* 🧠 Researched and redesigned an enterprise AI platform around **Retrieval-Augmented Generation (RAG)**, improving response quality while reducing infrastructure costs.
-* 👥 Led AI engineering teams delivering production applications for enterprise clients.
-* 📄 Published IEEE research on applied Generative AI.
 
 ---
 
